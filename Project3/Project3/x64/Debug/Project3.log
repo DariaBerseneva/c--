@@ -1,0 +1,3 @@
+﻿  FileName2.cpp
+C:\Users\berseneva.2020\source\repos\Project3\Project3\FileName2.cpp(121,19): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+  Project3.vcxproj -> C:\Users\berseneva.2020\source\repos\Project3\x64\Debug\Project3.exe
